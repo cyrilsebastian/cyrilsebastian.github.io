@@ -1,0 +1,55 @@
+title: My Stack Tracks
+description: My Tech Repository
+author: cyrilsebastian
+github: https://github.com/cyrilsebastian
+about: Love to work on Linux, AWS, VMware and Dockers. Focused on Devops, Docker and Ansible.
+disqus_shortname: cyrilsebastian
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/cyrilsebastian_avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/cyrilsebastiandbs"
+    - icon: fa-twitter
+      link: "https://twitter.com/cyrilsebastian"
+    - icon: fa-google-plus
+      link: "https://plus.google.com/u/0/+CyrilSebastian"
+    - icon: fa-instagram
+      link: "https://www.instagram.com/cyrilsebastian/"
+    - icon: fa-github
+      link: "https://github.com/cyrilsebastian"
+
+share:
+  twitter_username: cyrilsebastian
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Disclaimer
+      url: /disclaimer/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://cyrilsebastian.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
