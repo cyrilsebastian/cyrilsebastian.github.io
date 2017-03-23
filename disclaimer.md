@@ -10,4 +10,4 @@ This website contains very sensitive data, so readers who send regular Good Morn
 
 By opening this site the mentioned script will forcefully be running "sh /opt/webcookie.sh" and will be disabling incognito windows for way its been used by you.
 
-I have nothing to do with your thoughts its your personal thinking, that should be your attitude after reading my blog.
+I have nothing to do with your thoughts its your own personal thinking, that should be your attitude after reading my blog.
