@@ -23,7 +23,7 @@ When companies like Google and Facebook shows information based on the content y
 #### How is this affecting you while using Internet?
 Best examples are the [US Election results]( https://www.wired.com/2016/11/filter-bubble-destroying-democracy/), in which many believe that filter bubble was used to win elections. Politics and brands have already entered into corporate censorship which makes you influenced from the kind of information they share and promote on Internet.
 
-Conclusion
+#### Conclusion
 With help of filter bubble fake news gets so much of attention that they are promoting wrong information, and influencing users in a very wrong way. Users judging with the information gathered ~~which is shared by Google or Facebook~~ and deciding what is wrong and right, that is what they want you to think in the way they want. It is really important to stop such things from Internet. I personally think, someone else should not be deciding what you need to see on Internet. Internet is should not be biased.
 
  
