@@ -8,8 +8,8 @@ image: Why_shall_Google_or_Facebook_decide_what_information_shall_I_get_on_Inter
 
 Internet is really innocent but the platforms you are using are ruining the Internet. This is because we are dependent on social media and search results for information on Internet. Companies like Facebook and Google only show what they want to present to you not what you need to see. Google and Facebook come up with daily updated algorithms which makes your search result or news feed more personalized, thus making their process easy to categorize and divide the information in such a way that you will be pushed only to see what is happening in your circle. The technical term used for this [“Filter bubble”]( https://en.wikipedia.org/wiki/Filter_bubble).
 
-![Why shall Google or Facebook decide what information shall I get on Internet]
-<img src=https://raw.githubusercontent.com/cyrilsebastian/cyrilsebastian.github.io/master/_images/Why_shall_Google_or_Facebook_decide_what_information_shall_I_get_on_Internet.png)  "Why shall Google or Facebook decide what information shall I get on Internet?")
+<p>![Why shall Google or Facebook decide what information shall I get on Internet]
+<img src="https://raw.githubusercontent.com/cyrilsebastian/cyrilsebastian.github.io/master/_images/Why_shall_Google_or_Facebook_decide_what_information_shall_I_get_on_Internet.png" "why="" shall="" google="" or="" facebook="" decide="" what="" information="" i="" get="" on="" internet?"=""></p>
 
 #### What algorithm is applied?
 [Algorithms]( https://en.wikipedia.org/wiki/Algorithm) are set of protocols which can be customized to achieve specific goals. With the coming up of new technology, algorithms play a very important role to manipulate ideas and code in such a way that it tracks you with your behavioral search. The best example would be if I search for a T-shirt online, all the ads in my Google search engine and Facebook news feed would be of all the E-Commerce sites who are willing to sell T-shirts to me. Facebook tracks your likes, shared post and the content involved in it and only shows related or similar content to your news feed.
