@@ -3,6 +3,7 @@ layout: post
 title:  "Why shall Google or Facebook decide what information shall I get on Internet?"
 date:   2017-03-31 00:01:00 +0530
 categories: [social media, censorship]
+image: Why_shall_Google_or_Facebook_decide_what_information_shall_I_get_on_Internet.png
 ---
 
 Internet is really innocent but the platforms you are using are ruining the Internet. This is because we are dependent on social media and search results for information on Internet. Companies like Facebook and Google only show what they want to present to you not what you need to see. Google and Facebook come up with daily updated algorithms which makes your search result or news feed more personalized, thus making their process easy to categorize and divide the information in such a way that you will be pushed only to see what is happening in your circle. The technical term used for this [“Filter bubble”]( https://en.wikipedia.org/wiki/Filter_bubble).
