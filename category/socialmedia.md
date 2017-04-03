@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: socialmedia
-title: Social Media
+title: socialmedia
 permalink: /category/socialmedia
 ---
