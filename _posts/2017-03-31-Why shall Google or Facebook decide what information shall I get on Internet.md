@@ -2,7 +2,7 @@
 layout: post
 title:  "Why shall Google or Facebook decide what information shall I get on Internet?"
 date:   2017-03-31 00:01:00 +0530
-categories: [social media, censorship]
+categories: [socialmedia, censorship]
 image: Why_shall_Google_or_Facebook_decide_what_information_shall_I_get_on_Internet.png
 ---
 
