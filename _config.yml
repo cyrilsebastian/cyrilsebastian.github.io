@@ -38,6 +38,9 @@ urls:
       url: /disclaimer/
     - text: XML Feed
       url: /feed.xml
+      
+disqus:
+    shortname: cyrilsebastian
 
 url: "https://cyrilsebastian.github.io"
 baseurl: ""
