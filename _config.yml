@@ -42,7 +42,7 @@ urls:
 disqus:
     shortname: cyrilsebastian
 
-url: "https://cyrilsebastian.github.io"
+url: "http://cyrilsebastian.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
