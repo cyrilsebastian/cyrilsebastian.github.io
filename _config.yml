@@ -1,10 +1,10 @@
-title: My repository of thoughts :)
+title: My repository of thoughts.
 description: My Tech Repository
 author: cyrilsebastian
 github: https://github.com/cyrilsebastian
 about: Love to work on Linux, AWS, VMware and Dockers. Focused on Devops, Docker and Ansible.
 disqus_shortname: cyrilsebastian
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-117099107-1
 avatar_url: /static/img/cyrilsebastian_avatar.jpg
 
 enableTags: true
