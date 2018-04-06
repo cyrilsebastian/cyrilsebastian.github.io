@@ -15,11 +15,13 @@ Storage, AWS bucket, Dropbox, Microsoft Azure, Onedrive etc. This is a CLI progr
 to code, sync all the files to the mentioned drive.
 
 To install Rclone you need to ruining
+
 {% highlight ruby %}
 curl https://rclone.org/install.sh | sudo bash
 {% endhighlight %}
 
 To configure Rclone you need to follow these steps.
+
 {% highlight ruby %}
 No remotes found - make a new one
 n) New remote
@@ -93,6 +95,7 @@ y/e/d> y
 
 Once configured with your account by Google Oauth you can start using it and sync data with mentioned
 commands below.
+
 {% highlight ruby %}
 rclone lsd remote:          #to list Google Drive directories
 rclone ls remote:           #to list files present in Google Drive.
