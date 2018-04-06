@@ -1,4 +1,4 @@
-title: My Stack Tracks
+title: My repository of thoughts :)
 description: My Tech Repository
 author: cyrilsebastian
 github: https://github.com/cyrilsebastian
@@ -38,7 +38,7 @@ urls:
       url: /disclaimer/
     - text: XML Feed
       url: /feed.xml
-      
+
 disqus:
     shortname: cyrilsebastian
 
