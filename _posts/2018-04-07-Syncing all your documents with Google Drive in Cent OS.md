@@ -3,7 +3,7 @@ layout: post
 title:  "Syncing all your documents with Google Drive in Cent OS."
 date:   2018-04-07 00:01:00 +0530
 categories: [GoogleDrive, CentOS, clouddrive, sync]
-image: Image name.png
+#image: Image name.png
 ---
 
 There is always a need to sync data, I understand you can easily add all your code to Github but you
